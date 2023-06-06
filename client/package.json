@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^4.0.5"
   },
   "dependencies": {
     "is-keyword-js": "^1.0.3",
